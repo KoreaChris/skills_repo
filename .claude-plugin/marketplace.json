@@ -4,7 +4,7 @@
     "name": "KoreaChris"
   },
   "description": "Chris's curated Claude Code skills (forked from jha0313)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "plugins": [
     {
       "name": "ai-readiness-cartography",
@@ -13,7 +13,8 @@
       "version": "1.0.0",
       "author": { "name": "jha0313" },
       "category": "development",
-      "keywords": ["audit", "ai-ready", "cartography", "scoring"]
+      "keywords": ["audit", "ai-ready", "cartography", "scoring"],
+      "skills": ["./"]
     },
     {
       "name": "improve-token-efficiency",
@@ -22,7 +23,8 @@
       "version": "1.0.0",
       "author": { "name": "jha0313" },
       "category": "development",
-      "keywords": ["token", "efficiency", "cost", "analysis"]
+      "keywords": ["token", "efficiency", "cost", "analysis"],
+      "skills": ["./"]
     },
     {
       "name": "presentation-slides",
@@ -31,7 +33,8 @@
       "version": "1.0.0",
       "author": { "name": "jha0313" },
       "category": "design",
-      "keywords": ["slides", "presentation", "html"]
+      "keywords": ["slides", "presentation", "html"],
+      "skills": ["./"]
     }
   ]
 }
