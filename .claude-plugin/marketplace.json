@@ -1,0 +1,37 @@
+{
+  "name": "korea-chris-skills",
+  "owner": {
+    "name": "KoreaChris"
+  },
+  "description": "Chris's curated Claude Code skills (forked from jha0313)",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "ai-readiness-cartography",
+      "source": "./ai-readiness-cartography",
+      "description": "Audit any repository against the v2 AI-Ready rubric (100pt, 7 categories) and generate HTML dashboard",
+      "version": "1.0.0",
+      "author": { "name": "jha0313" },
+      "category": "development",
+      "keywords": ["audit", "ai-ready", "cartography", "scoring"]
+    },
+    {
+      "name": "improve-token-efficiency",
+      "source": "./improve-token-efficiency",
+      "description": "Parse Claude Code session JSONL logs and generate token/cost efficiency dashboard",
+      "version": "1.0.0",
+      "author": { "name": "jha0313" },
+      "category": "development",
+      "keywords": ["token", "efficiency", "cost", "analysis"]
+    },
+    {
+      "name": "presentation-slides",
+      "source": "./presentation_slides",
+      "description": "HTML-based presentation slide system with section color coding",
+      "version": "1.0.0",
+      "author": { "name": "jha0313" },
+      "category": "design",
+      "keywords": ["slides", "presentation", "html"]
+    }
+  ]
+}
